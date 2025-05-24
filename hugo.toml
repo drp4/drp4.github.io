@@ -1,0 +1,76 @@
+baseURL = "https://drp4.github.io/"
+# baseURL = "127.0.0.1"
+languageCode = "zh-CN"
+title = "drp4"
+# theme = "smigle"
+
+[params]
+  author = "drp4"
+
+  abbrDateFmt = "Jan 2"
+  brandIconFile = "images/brandIcon.svg"
+  dateFmt = "2006-01-02"
+  subtitle = " 随想録"
+
+  [[params.social]]
+    name = "GitHub"
+    url = "https://github.com/drp4"
+
+  [[params.social]]
+    name = "Biibili"
+    url = "https://space.bilibili.com/94393379"
+
+  # [[params.social]]
+  #   name = "GitLab"
+  #   url = "https://github.com/drp4"
+
+  # [[params.social]]
+  #   name = "Reddit"
+  #   url = "https://github.com/drp4"
+
+  # [[params.social]]
+  #   name = "StackOverflow"
+  #   url = "https://github.com/drp4"
+
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
+
+  # [[menu.main]]
+  #   identifier = "rss"
+  #   name = "RSS"
+  #   url = "/index.xml"
+  #   weight = 6
