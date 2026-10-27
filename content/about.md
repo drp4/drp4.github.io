@@ -5,7 +5,7 @@ layout: default
 
 Hi, I'm **drp4**.
 
-I am a second-year graduate student researching **Big Data technologies** and **distributed systems**, with an active interest in **AI Agents** and LLM engineering.
+I am a second-year graduate student focusing on **backend development** and **distributed systems**, with an active interest in **AI Agents** and LLM engineering.
 
 Welcome to my personal blog.
 
@@ -13,11 +13,11 @@ Welcome to my personal blog.
 
 ## About the Blog
 
-This site serves as a personal digital notebook to document research findings, engineering practices, and technical experiments.
+This site serves as a personal digital notebook to document engineering practices, technical explorations, and experiments.
 
 Topics covered here include:
 
-- **Big Data & Distributed Systems**: Data processing, distributed storage, and system design.
+- **Backend & Distributed Systems**: System architecture, service design, and distributed computing.
 - **AI Agents**: Agent architectures, workflow automation, and LLM application engineering.
 - **Engineering & Notes**: Development practices, debugging notes, and tooling.
 
@@ -25,8 +25,8 @@ Topics covered here include:
 
 ## Technical Focus
 
-- **Research & Focus**: Big Data / Distributed Computing / AI Agents
-- **Languages**: Java / Python / Go / Scala
+- **Focus Areas**: Backend Systems / Distributed Architecture / AI Agents
+- **Languages & Frameworks**: Java / Python / TypeScript / React
 - **Infrastructure**: Linux / Docker / Git / CI/CD
 
 ---
