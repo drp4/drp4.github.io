@@ -17,7 +17,7 @@ title = "drp4"
     url = "https://github.com/drp4"
 
   [[params.social]]
-    name = "Biibili"
+    name = "Bilibili"
     url = "https://space.bilibili.com/94393379"
 
   # [[params.social]]
