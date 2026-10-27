@@ -1,8 +1,40 @@
 ---
-title: About
+title: "About"
 layout: default
 ---
 
-Ut vitae sagittis tortor. Aliquam euismod vel elit id porttitor. Sed sit amet feugiat urna, quis semper ipsum. Ut vitae ligula ultrices, porttitor ipsum nec, accumsan est. Nunc posuere felis non mauris volutpat interdum. Sed consequat arcu est, eget consequat enim feugiat rhoncus. Nunc sit amet rhoncus libero, venenatis tristique eros. Duis feugiat sem ac eros maximus gravida. Cras mollis vulputate risus, eget tincidunt neque porttitor vitae. Sed sit amet volutpat urna. Aenean ultricies turpis eget porta porttitor.
+Hi, I'm **drp4**.
 
-Duis eget nibh ut nisi blandit pulvinar id vel mauris. Quisque quis magna dapibus, iaculis magna in, semper augue. Donec ullamcorper justo sed dignissim dictum. Sed in purus ac magna ultrices pharetra. Nam id lacus in urna varius euismod at a erat. Cras justo nisl, finibus nec laoreet vitae, ultrices pulvinar velit. Morbi ornare dolor eget pellentesque lobortis. Aliquam consequat tellus erat, at suscipit ipsum ultrices lobortis. Proin malesuada orci in nunc pellentesque volutpat. Phasellus tincidunt suscipit sagittis. Aenean in sodales est. Vivamus eu odio sit amet lacus porttitor venenatis. Nulla elit lectus, convallis ut orci quis, pharetra varius mi. Proin vitae laoreet diam.
+I am a second-year graduate student researching **Big Data technologies** and **distributed systems**, with an active interest in **AI Agents** and LLM engineering.
+
+Welcome to my personal blog.
+
+---
+
+## About the Blog
+
+This site serves as a personal digital notebook to document research findings, engineering practices, and technical experiments.
+
+Topics covered here include:
+
+- **Big Data & Distributed Systems**: Data processing, distributed storage, and system design.
+- **AI Agents**: Agent architectures, workflow automation, and LLM application engineering.
+- **Engineering & Notes**: Development practices, debugging notes, and tooling.
+
+---
+
+## Technical Focus
+
+- **Research & Focus**: Big Data / Distributed Computing / AI Agents
+- **Languages**: Java / Python / Go / Scala
+- **Infrastructure**: Linux / Docker / Git / CI/CD
+
+---
+
+## Contact
+
+Feel free to reach out or connect:
+
+- **GitHub**: [github.com/drp4](https://github.com/drp4)
+- **Bilibili**: [space.bilibili.com/94393379](https://space.bilibili.com/94393379)
+- **Email**: [guilt1329149274@gmail.com](mailto:guilt1329149274@gmail.com)
